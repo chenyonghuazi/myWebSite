@@ -1,0 +1,107 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3628280 */
+  src: url('iconfont.woff2?t=1662746787070') format('woff2'),
+       url('iconfont.woff?t=1662746787070') format('woff'),
+       url('iconfont.ttf?t=1662746787070') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-homepage_fill:before {
+  content: "\e702";
+}
+
+.icon-crying-:before {
+  content: "\e60d";
+}
+
+.icon-laughing:before {
+  content: "\e62b";
+}
+
+.icon-relieved:before {
+  content: "\e631";
+}
+
+.icon-sad:before {
+  content: "\e636";
+}
+
+.icon-sick:before {
+  content: "\e63f";
+}
+
+.icon-emoji-:before {
+  content: "\e7ae";
+}
+
+.icon-emoji-1:before {
+  content: "\e7af";
+}
+
+.icon-emoji-2:before {
+  content: "\e7b6";
+}
+
+.icon-emoji-3:before {
+  content: "\e7b7";
+}
+
+.icon-emoji-4:before {
+  content: "\e7bf";
+}
+
+.icon-emoji-5:before {
+  content: "\e7c5";
+}
+
+.icon-emoji_line:before {
+  content: "\e628";
+}
+
+.icon-emoji_line1:before {
+  content: "\e629";
+}
+
+.icon-emoji_line2:before {
+  content: "\e62c";
+}
+
+.icon-emoji_line3:before {
+  content: "\e62d";
+}
+
+.icon-emoji_line4:before {
+  content: "\e62f";
+}
+
+.icon-emoji_line5:before {
+  content: "\e63c";
+}
+
+.icon-emoji_line6:before {
+  content: "\e63e";
+}
+
+.icon-emoji_line7:before {
+  content: "\e641";
+}
+
+.icon-emoji_line8:before {
+  content: "\e642";
+}
+
+.icon-EMOJI-:before {
+  content: "\e65d";
+}
+
+.icon-laoshu-01:before {
+  content: "\e60c";
+}
+
